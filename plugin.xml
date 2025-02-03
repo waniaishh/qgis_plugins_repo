@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin name="filterdata" version="1.0.0">
+        <version>1.0.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <description>Your plugin description here</description>
+        <about>just used to filter data</about>
+        <author>Wania</author>
+        <email>wania123@sinc.com</email>
+        <download_url>https://github.com/waniaishh/qgis_plugins_repo/blob/main/filterdata.zip</download_url>
+    </plugin>
+</plugins>
